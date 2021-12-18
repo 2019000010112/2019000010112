@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2019000010112
 - 👀 I’m interested in Sleeping 😪
-- 🌱 I’m currently learning DevOOPs
-- 💞️ I’m looking to collaborate on data science
+- 🌱 I’m currently learning Software QA
+- 💞️ I’m looking to collaborate on Data science
 - 📫 You can reach me @2019000010112@seu.edu.bd
 
 <!---
